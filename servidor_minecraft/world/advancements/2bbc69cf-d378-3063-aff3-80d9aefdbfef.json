@@ -1011,6 +1011,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/tools/bagofhoarding": {
+    "criteria": {
+      "has_recipe": "2024-12-09 18:48:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-06 18:45:54 +0000"
@@ -1888,9 +1894,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-12-09 18:48:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-06 18:59:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2024-12-09 18:48:36 +0000"
     },
     "done": true
   },
@@ -2054,6 +2072,7 @@
     "criteria": {
       "meteor": "2024-12-06 22:31:39 +0000",
       "ignite": "2024-12-07 03:58:18 +0000",
+      "snare": "2024-12-09 18:49:43 +0000",
       "magic_missile": "2024-12-07 01:53:53 +0000",
       "telekinesis": "2024-12-07 03:57:54 +0000"
     },

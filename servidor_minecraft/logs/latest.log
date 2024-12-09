@@ -826,3 +826,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 [18:43:01] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
 [18:43:01] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
 [18:43:01] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[18:46:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Creative Mode]
+[18:47:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Survival Mode]
+[18:48:36] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[18:48:36] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[18:48:36] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[18:54:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Given [Ender Pearl] * 4 to narutu1313]
+[18:54:16] [Server thread/INFO] [Persistent Bits]: Player narutu1313 has placed a Chunk Loader at coordinates: x = 836, y = 200, z = 59 in Dimension 0.
+[18:55:06] [Server thread/INFO] [Persistent Bits]: Chunk Loader at coordinates: x = 836, y = 200, z = 59 in Dimension 0 has been destroyed.
