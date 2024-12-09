@@ -780,3 +780,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 [21:49:37] [Server thread/INFO] [ebwizardry]: Synchronising config settings for narutu1313
 [21:49:37] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
 [21:49:37] [Server thread/INFO] [Waila]: Player EntityPlayerMP['narutu1313'/5288, l='world', x=834.64, y=163.54, z=59.46] connected. Sending ping
+[21:56:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Given Night Vision (ID 16) * 2 to narutu1313 for 200000 seconds]
