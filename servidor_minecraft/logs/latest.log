@@ -904,3 +904,6 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [23:13:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Survival Mode]
 [23:13:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: narutu1313 has made the advancement [Ashes 'n Bones]
 [23:13:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[23:18:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Spectator Mode]
+[23:18:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Creative Mode]
+[23:24:18] [Server thread/INFO] [Persistent Bits]: Player narutu1313 has placed a Chunk Loader at coordinates: x = 645, y = 80, z = -94 in Dimension 0.
