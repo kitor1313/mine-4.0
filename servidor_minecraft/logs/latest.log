@@ -782,3 +782,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 [21:49:37] [Server thread/INFO] [Waila]: Player EntityPlayerMP['narutu1313'/5288, l='world', x=834.64, y=163.54, z=59.46] connected. Sending ping
 [21:56:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Given Night Vision (ID 16) * 2 to narutu1313 for 200000 seconds]
 [22:07:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set game difficulty to Normal]
+[22:16:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Given Haste (ID 3) * 3 to narutu1313 for 1000 seconds]
+[22:17:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Given Haste (ID 3) * 5 to narutu1313 for 1000 seconds]
