@@ -532,6 +532,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-12-10 04:17:31 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/armour/iron_plate_armour": {
     "criteria": {
       "has_item": "2024-12-06 19:19:58 +0000"
@@ -818,6 +824,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2024-12-10 04:13:54 +0000",
+      "stray": "2024-12-10 04:13:12 +0000",
+      "wither_skeleton": "2024-12-10 04:13:08 +0000",
+      "zombie_villager": "2024-12-10 04:13:26 +0000",
       "skeleton": "2024-12-06 19:28:38 +0000",
       "zombie": "2024-12-06 19:07:04 +0000"
     },
