@@ -1181,6 +1181,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2024-12-10 18:36:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "ice_flats": "2024-12-05 19:21:45 +0000",
@@ -1902,6 +1908,12 @@
   "dungeontactics:recipes/weapons/bombs": {
     "criteria": {
       "has_item": "2024-12-07 00:28:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_black_dye": "2024-12-10 18:36:46 +0000"
     },
     "done": true
   },

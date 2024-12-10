@@ -823,3 +823,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 [18:03:37] [Server thread/INFO] [Waila]: Player EntityPlayerMP['narutu1313'/86, l='world', x=817.36, y=97.00, z=-63.68] connected. Sending ping
 [18:07:04] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
 [18:07:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: narutu1313's Zombie burned to death
+[18:36:46] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[18:36:46] [Server thread/INFO] [ebwizardry]: Synchronising advancements for narutu1313
+[18:39:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Creative Mode]
+[18:40:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Survival Mode]
