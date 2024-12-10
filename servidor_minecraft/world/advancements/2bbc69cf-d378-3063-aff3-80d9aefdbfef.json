@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2024-12-10 03:38:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-05 19:37:22 +0000"
@@ -871,6 +877,12 @@
       "emerald": "2024-12-07 02:11:45 +0000"
     },
     "done": false
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2024-12-10 03:38:55 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
