@@ -1435,3 +1435,10 @@
 2024-12-10 03:32:17,403 [Server thread] WARN Treasure2 | TreasureDecayManager.java:201 | Expected to find meta treasure2:rulesets/aged_ruleset.json at ./world/data/decay/treasure2/rulesets/aged_ruleset.json but it doesn't exist.
 2024-12-10 03:32:17,409 [Server thread] WARN Treasure2 | TreasureDecayManager.java:201 | Expected to find meta treasure2:rulesets/default_ruleset.json at ./world/data/decay/treasure2/rulesets/default_ruleset.json but it doesn't exist.
 2024-12-10 03:32:17,409 [Server thread] WARN Treasure2 | TreasureDecayManager.java:201 | Expected to find meta treasure2:rulesets/ruinous_ruleset.json at ./world/data/decay/treasure2/rulesets/ruinous_ruleset.json but it doesn't exist.
+2024-12-10 04:28:01,609 [Server thread] INFO Treasure2 | SubmergedChestWorldGenerator.java:307 | CHEATER! SCARCE chest at coords: 1256 43 8
+2024-12-10 04:28:07,520 [Server thread] INFO Treasure2 | SubmergedChestWorldGenerator.java:307 | CHEATER! RARE chest at coords: 1288 45 248
+2024-12-10 04:28:58,728 [Server thread] INFO Treasure2 | SubmergedChestWorldGenerator.java:307 | CHEATER! SCARCE chest at coords: 1464 39 88
+2024-12-10 04:29:10,692 [Server thread] INFO Treasure2 | SubmergedChestWorldGenerator.java:307 | CHEATER! EPIC chest at coords: 1512 45 -136
+2024-12-10 04:29:20,936 [Server thread] INFO Treasure2 | SubmergedChestWorldGenerator.java:307 | CHEATER! LEGENDARY chest at coords: 1592 44 -120
+2024-12-10 04:29:23,616 [Server thread] INFO Treasure2 | SubmergedChestWorldGenerator.java:307 | CHEATER! RARE chest at coords: 1608 32 232
+2024-12-10 04:30:41,110 [Server thread] INFO Treasure2 | SubmergedChestWorldGenerator.java:307 | CHEATER! SCARCE chest at coords: 1528 43 -238

@@ -2088,3 +2088,50 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 [04:22:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Empty_z> para sangre de blazes
 [04:22:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Empty_z> o va, no se si en esta version esta
 [04:22:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <narutu1313> creo que no
+[04:22:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Empty_z> na no está f
+[04:22:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <narutu1313> nop no esta
+[04:23:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: You whisper to narutu1313: gei
+[04:27:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Empty_z> 837 64
+[04:28:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <narutu1313> que
+[04:28:07] [Server thread/WARN] [FML]: GottschCore loaded a new chunk [81, 15] in dimension 0 (overworld) while populating chunk [80, 15], causing cascading worldgen lag.
+[04:28:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:28:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Empty_z> so
+[04:28:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Empty_z moved too quickly! 6.705105372664548,-8.987639274758003,-0.8679949891374221
+[04:29:00] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2098ms behind, skipping 41 tick(s)
+[04:29:20] [Server thread/WARN] [FML]: GottschCore loaded a new chunk [99, -7] in dimension 0 (overworld) while populating chunk [99, -8], causing cascading worldgen lag.
+[04:29:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:29:23] [Server thread/WARN] [FML]: GottschCore loaded a new chunk [101, 14] in dimension 0 (overworld) while populating chunk [100, 14], causing cascading worldgen lag.
+[04:29:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:29:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Empty_z
+[04:29:39] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Empty_z
+[04:29:39] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Empty_z
+[04:29:39] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Empty_z
+[04:29:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Empty_z is bleeding...
+[04:29:51] [Server thread/INFO] [tombstone]: The death event of the player Empty_z was cancelled by another mod
+[04:29:51] [Server thread/INFO] [tombstone]: Empty_z has successfully been saved
+[04:29:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Empty_z has reached the goal [Strong or Careful]
+[04:29:57] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Empty_z
+[04:29:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Empty_z was slain by Blue Slime
+[04:29:57] [Server thread/INFO] [tombstone]: The last known grave of Empty_z is at location [name:Last Grave, x:1397, y:63, z:36] in the dimension 0
+[04:29:59] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Empty_z
+[04:30:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <narutu1313> jaja por nob
+[04:30:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Empty_z> q hp
+[04:30:41] [Server thread/WARN] [FML]: GottschCore loaded a new chunk [95, -16] in dimension 0 (overworld) while populating chunk [95, -15], causing cascading worldgen lag.
+[04:30:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:30:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Empty_z is bleeding...
+[04:30:47] [Server thread/INFO] [tombstone]: The death event of the player Empty_z was cancelled by another mod
+[04:30:47] [Server thread/INFO] [tombstone]: Empty_z has successfully been saved
+[04:30:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Empty_z has reached the goal [Chain Death]
+[04:30:50] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Empty_z
+[04:30:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Empty_z was slain by Sea Serpent
+[04:30:50] [Server thread/INFO] [tombstone]: The last known grave of Empty_z is at location [name:Last Grave, x:1398, y:63, z:-23] in the dimension 0
+[04:30:53] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Empty_z
+[04:30:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Empty_z> serpiente de mierda
+[04:31:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Empty_z is bleeding...
+[04:31:34] [Server thread/INFO] [tombstone]: The death event of the player Empty_z was cancelled by another mod
+[04:31:34] [Server thread/INFO] [tombstone]: Empty_z has successfully been saved
+[04:31:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Empty_z was slain by Sea Serpent
+[04:31:36] [Server thread/INFO] [tombstone]: The last known grave of Empty_z is at location [name:Last Grave, x:1356, y:63, z:-76] in the dimension 0
+[04:31:38] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Empty_z
+[04:32:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Empty_z> encima no hay tierra cerca
+[04:32:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <narutu1313> jajaja
