@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2024-12-10 04:51:19 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/misc/convenience/sticks_from_cactus": {
     "criteria": {
       "has_stick": "2024-12-06 18:52:07 +0000"
@@ -110,6 +116,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-06 19:14:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-10 04:51:19 +0000"
     },
     "done": true
   },
@@ -599,6 +611,7 @@
       "highland": "2024-12-10 03:56:54 +0000",
       "cold_desert": "2024-12-06 19:05:08 +0000",
       "coral_reef": "2024-12-06 18:48:36 +0000",
+      "land_of_lakes": "2024-12-10 04:48:16 +0000",
       "boreal_forest": "2024-12-06 19:06:47 +0000",
       "snowy_forest": "2024-12-06 18:56:18 +0000",
       "kelp_forest": "2024-12-06 19:06:16 +0000",
@@ -657,6 +670,12 @@
   "tombstone:tutorial/enchant_grave_key": {
     "criteria": {
       "has_upgraded_grave_key": "2024-12-06 18:53:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2024-12-10 04:51:07 +0000"
     },
     "done": true
   },
@@ -804,6 +823,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-12-10 04:51:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2024-12-10 03:58:01 +0000"
@@ -878,6 +903,12 @@
   "biomesoplenty:recipes/redstone/wooden_button_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2024-12-06 18:51:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-10 04:51:19 +0000"
     },
     "done": true
   },
@@ -1129,7 +1160,8 @@
   },
   "biomesoplenty:biomesoplenty/terrestrial_artifact": {
     "criteria": {
-      "emerald": "2024-12-06 20:29:10 +0000"
+      "emerald": "2024-12-06 20:29:10 +0000",
+      "sapphire": "2024-12-10 04:45:09 +0000"
     },
     "done": false
   },
@@ -1337,6 +1369,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wooden_slab": {
+    "criteria": {
+      "has_planks": "2024-12-10 04:51:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-06 18:52:06 +0000"
@@ -1496,6 +1534,7 @@
       "ice_mountains": "2024-12-06 18:49:45 +0000",
       "taiga": "2024-12-06 19:28:08 +0000",
       "ocean": "2024-12-06 19:05:23 +0000",
+      "roofed_forest": "2024-12-10 04:51:42 +0000",
       "cold_beach": "2024-12-06 18:46:55 +0000",
       "river": "2024-12-10 03:56:00 +0000",
       "stone_beach": "2024-12-06 19:28:44 +0000"
