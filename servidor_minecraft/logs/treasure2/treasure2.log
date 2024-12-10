@@ -1466,3 +1466,7 @@
 2024-12-10 04:51:19,491 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! COMMON chest at coords: 2568 65 -184
 2024-12-10 04:52:24,434 [Server thread] INFO Treasure2 | SubmergedChestWorldGenerator.java:307 | CHEATER! SCARCE chest at coords: 2584 54 176
 2024-12-10 04:52:46,496 [Server thread] INFO Treasure2 | SubmergedChestWorldGenerator.java:307 | CHEATER! RARE chest at coords: 2457 51 -344
+2024-12-10 04:56:09,369 [Server thread] INFO Treasure2 | SubmergedChestWorldGenerator.java:307 | CHEATER! SCARCE chest at coords: 2697 52 48
+2024-12-10 04:56:25,060 [Server thread] INFO Treasure2 | SubmergedChestWorldGenerator.java:307 | CHEATER! MYTHICAL chest at coords: 2744 47 -302
+2024-12-10 04:56:57,175 [Server thread] INFO Treasure2 | SubmergedChestWorldGenerator.java:307 | CHEATER! LEGENDARY chest at coords: 2723 48 -382
+2024-12-10 04:58:46,117 [Server thread] INFO Treasure2 | SubmergedChestWorldGenerator.java:307 | CHEATER! RARE chest at coords: 2728 47 -472

@@ -413,6 +413,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-10 04:59:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2024-12-06 19:33:36 +0000"
@@ -1005,6 +1011,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-10 04:59:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_log": "2024-12-07 02:29:38 +0000"
@@ -1175,6 +1187,8 @@
       "frozen_river": "2024-12-06 17:11:23 +0000",
       "taiga_cold_hills": "2024-12-10 03:51:27 +0000",
       "deep_ocean": "2024-12-06 16:51:38 +0000",
+      "beaches": "2024-12-10 04:52:46 +0000",
+      "plains": "2024-12-10 04:55:47 +0000",
       "ice_mountains": "2024-12-06 18:50:27 +0000",
       "taiga": "2024-12-06 19:03:48 +0000",
       "ocean": "2024-12-06 16:46:36 +0000",
@@ -1595,6 +1609,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-12-10 05:10:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2024-12-08 23:09:39 +0000"
@@ -1636,6 +1656,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2024-12-06 19:31:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2024-12-10 05:07:13 +0000"
     },
     "done": true
   },
@@ -1699,6 +1725,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-10 05:09:50 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/misc/dungeonpedia": {
     "criteria": {
       "has_book": "2024-12-06 19:00:19 +0000"
@@ -1720,6 +1752,12 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2024-12-07 12:40:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2024-12-10 05:03:50 +0000"
     },
     "done": true
   },
