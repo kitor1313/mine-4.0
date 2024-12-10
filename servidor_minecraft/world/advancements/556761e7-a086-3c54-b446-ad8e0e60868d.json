@@ -520,6 +520,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-10 04:41:06 +0000"
+    },
+    "done": true
+  },
   "treasure2:recipes/wither_key": {
     "criteria": {
       "has_tool": "2024-12-06 19:34:21 +0000"
@@ -813,6 +819,12 @@
   "biomesoplenty:recipes/transportation/boat_umbran": {
     "criteria": {
       "entered_water": "2024-12-06 18:48:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2024-12-10 04:41:02 +0000"
     },
     "done": true
   },
