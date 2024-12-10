@@ -766,3 +766,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 [02:22:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Survival Mode]
 [02:24:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Creative Mode]
 [02:27:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [narutu1313: Set own game mode to Survival Mode]
+[02:50:20] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: narutu1313 lost connection: Disconnected
+[02:50:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: narutu1313 left the game
