@@ -808,3 +808,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 [02:02:53] [BetterFps Update Checker/WARN] [BetterFps]: Could not check for updates: widget.mcf.li
 [02:02:55] [Thread-11/INFO] [THAUMCRAFT]: Stopping aura thread for dim 1
 [02:02:55] [Thread-12/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[02:13:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[02:13:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[02:13:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[02:13:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[02:13:38] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 0
+[02:13:38] [Server thread/INFO] [FML]: Unloading dimension 0
+[02:13:38] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[02:13:38] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[02:13:38] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
